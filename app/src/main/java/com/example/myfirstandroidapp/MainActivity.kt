@@ -15,14 +15,16 @@ class MainActivity : AppCompatActivity() {
 
         btnSend.setOnClickListener {
 
-            Log.i("MainActivity", "button was clicked" )
+            Log.i("MainActivity", "button was clicked")
 
             val message = PlainText.text.toString()
 
-            Toast.makeText(this,message,Toast.LENGTH_SHORT).show()
-
-            val intent = Intent(this,SecondActivity::class.java)
+//          Explicit Intent {
+            val intent = Intent(this, SecondActivity::class.java)
+            intent.putExtra("user_message",message)
             startActivity(intent)
-        }
+//        }
+
+       }
     }
 }
