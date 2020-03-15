@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">My First Android App</string>
-    <string name="button">Button</string>
+    <string name="btn_recyclerView">Recyler View Demo</string>
+    <string name="btn_share">Share</string>
+    <string name="btnSend">Send data to next activity</string>
+    <string name="PlainText">Enter your message</string>
+    <string name="textuser_msg">TextView</string>
+    <string name="btn_back">Back</string>
+    <string name="txvTitle">Title</string>
+
 </resources>

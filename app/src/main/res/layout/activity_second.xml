@@ -10,7 +10,7 @@
         android:id="@+id/textuser_msg"
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:text="TextView"
+        android:text="@string/textuser_msg"
         android:textSize="30sp"
         android:textStyle="bold"
         android:textColor="#3F51B5"/>
@@ -19,6 +19,6 @@
         android:id="@+id/btn_back"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Back"
+        android:text="@string/btn_back"
         android:layout_margin="10dp"/>
 </LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ma première application Android</string>
+    <string name="btn_recyclerView">Recyler Voir la démo</string>
+    <string name="btn_share">Partager</string>
+    <string name="btnSend">Envoyer des données à la prochaine activité</string>
+    <string name="PlainText">entrez votre message</string>
+    <string name="textuser_msg">Affichage</string>
+    <string name="btn_back">Retour</string>
+    <string name="txvTitle">Titre</string>
+</resources>

@@ -20,7 +20,7 @@
         android:layout_marginTop="308dp"
         android:layout_marginEnd="7dp"
         android:layout_marginRight="7dp"
-        android:text="Send data to next activity" />
+        android:text="@string/btnSend" />
 
     <EditText
         android:id="@+id/PlainText"
@@ -34,7 +34,7 @@
         android:layout_marginLeft="9dp"
         android:layout_marginTop="210dp"
         android:ems="10"
-        android:hint="Enter your message"
+        android:hint="@string/PlainText"
         android:inputType="textPersonName"
         android:textAlignment="center" />
 
@@ -53,7 +53,7 @@
         android:layout_marginEnd="24dp"
         android:layout_marginRight="24dp"
         android:layout_marginBottom="295dp"
-        android:text="Share" />
+        android:text="@string/btn_share" />
 
     <Button
         android:id="@+id/btn_recyclerView"
@@ -62,7 +62,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="189dp"
-        android:text="Recyler View Demo" />
+        android:text="@string/btn_recyclerView" />
 
 
 </RelativeLayout>
