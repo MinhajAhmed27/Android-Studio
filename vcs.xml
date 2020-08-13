@@ -6,7 +6,20 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="MinhajAhmed27" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RoveOfficial/Android-Internship-Code/tree/Day4/app/src/main/java/com/rove/androidinternshipproject" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RoveOfficial/Android-Internship-Code/tree/Day4" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RoveOfficial/Android-Internship-Code" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\Minhaj\AndroidStudioProjects" />
   </component>
 </application>
